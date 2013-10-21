@@ -1,0 +1,11 @@
+﻿Build started 11/15/2012 5:07:19 AM.
+     1>Project "C:\Users\kak\Documents\Visual Studio 2012\Projects\d3d1\d3d1\d3d1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\d3d1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt d3d1.cpp
+         d3d1.cpp
+     1>c:\users\kak\documents\visual studio 2012\projects\d3d1\d3d1\d3dx9tex.h(1): fatal error C1083: Cannot open include file: '_mingw_unicode.h': No such file or directory
+     1>Done Building Project "C:\Users\kak\Documents\Visual Studio 2012\Projects\d3d1\d3d1\d3d1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.93
